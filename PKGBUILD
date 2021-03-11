@@ -7,7 +7,6 @@ pkgdesc="Brother MFC-T910dw CUPS driver"
 arch=('i686' 'x86_64' 'aarch64' 'armv7h')
 url="http://www.brother.com"
 license=('custom')
-arch=('i686' 'x86_64')
 depends=('cups' 'ghostscript')
 depends_x86_64=('lib32-glibc')
 
